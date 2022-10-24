@@ -11,7 +11,7 @@
 <p align="left">
 <a href="https://twitter.com/anurags31135607" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="anurags31135607" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/anurag-singh-b0120516a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anurag-singh-b0120516a" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/anurag singh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="anurag singh" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/10864454/anurag-singh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="anurag singh" height="30" width="40" /></a>
 <a href="https://kaggle.com/anurag singh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="anurag singh" height="30" width="40" /></a>
 </p>
 
