@@ -23,4 +23,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anurags10&show_icons=true&locale=en" alt="anurags10" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anurags10&" alt="anurags10" /></p>
-[![An image of @anurags10's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/anurags10)](https://holopin.io/@anurags10)
+
