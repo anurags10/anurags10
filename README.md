@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/anurags31135607" target="blank"><img src="https://img.shields.io/twitter/follow/anurags31135607?logo=twitter&style=for-the-badge" alt="anurags31135607" /></a> </p>
 
-- 📫 How to reach me **iamanuragsingh10@gmail.com**
+- 📫 How to reach me **anurags2100@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
