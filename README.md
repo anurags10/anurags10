@@ -38,5 +38,5 @@ Connect with me on [LinkedIn](https://www.linkedin.com/in/anuragsingh10/) to kno
   ⦿ Connect with me on [LinkedIn](https://www.linkedin.com/in/anuragsingh10/) 👨🏻‍💻 <br>
   ⦿ Email me [Anurag Singh](mailto:iamanuragsingh10@gmail.com) <br>
   ⦿ Twitter [Anurag Singh](https://x.com/AnuragS31135607) <br>
-  ⦿ Discord [Anurag](anurags10) <br>
+  ⦿ Discord [anurags10](https://discord.com/channels/@anurags10) <br>
   
