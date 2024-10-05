@@ -1,26 +1,42 @@
-<h1 align="center">Hi 👋, I'm Anurag Singh</h1>
-<h3 align="center">A passionate frontend and blockchain developer from India.</h3>
+# Introduction
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anurags10&label=Profile%20views&color=0e75b6&style=flat" alt="anurags10" /> </p>
+### Hi there 👋
 
-<p align="left"> <a href="https://twitter.com/anurags31135607" target="blank"><img src="https://img.shields.io/twitter/follow/anurags31135607?logo=twitter&style=for-the-badge" alt="anurags31135607" /></a> </p>
-
-- 📫 How to reach me **anurags2100@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/anurags31135607" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="anurags31135607" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/anurag-singh-b0120516a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anurag-singh-b0120516a" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/10864454/anurag-singh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="anurag singh" height="30" width="40" /></a>
-<a href="https://kaggle.com/anurags10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="anurag singh" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://mochajs.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="mocha" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+I am [Anurag](https://www.linkedin.com/in/anuragsingh10/), a blockchain developer from [🇮🇳](https://en.wikipedia.org/wiki/India).
 
 
+I have **2+ years** of experience in blockchain development & full stack software development. An adaptable professional who explores various blockchain platforms, architect smart contract systems, loves coding & reviewing smart contracts and enjoys problem-solving. 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anurags10&show_icons=true&locale=en" alt="anurags10" /></p>
+## Professional Skills and Interests:
+* Designing & Coding Smart Contracts 
+* DeFi protocols, Tokens and NFT market 
+* R&D, DAOs & Hackathons enthusiast
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anurags10&" alt="anurags10" /></p>
+# Work Experience
 
+## Smart Contract Security Experience
+* Completed **CTF wargame Ethernaut** for enhancing smart contract security skills (https://ethernaut.openzeppelin.com/)
+  
+## Full-Stack Experience
+### [TCS](https://www.tcs.com/) - Full stack Developer (July 2022 - current)
+* Skills: JavaScript, React, Typescript, Node.js, Azure, MERN stack
+
+## Hackathons Experience
+* POAP collection [anurags10.eth](https://collectors.poap.xyz/scan/0xAeb23FBfcb0f95CfbdAf6DB6Cc7BFC7908Da3986)
+* [ETHOnline 2024](https://ethglobal.com/showcase/manga-munchies-cyx0n)
+* [HackFS 2024](https://ethglobal.com/showcase/xyllow-f1srg)
+* [ETHOnline 2023](https://ethglobal.com/events/ethonline2022)
+* [HackFS 2022](https://ethglobal.com/events/hackfs2022/home)
+* [ETHernals](https://devfolio.co/projects/dcentragram-ba5f)
+* and many more...
+
+Connect with me on [LinkedIn](https://www.linkedin.com/in/anuragsingh10/) to know more about my work experience & projects.
+
+
+# 📫 How to reach me? 
+
+  ⦿ Connect with me on [LinkedIn](https://www.linkedin.com/in/anuragsingh10/) 👨🏻‍💻 <br>
+  ⦿ Email me [Anurag Singh](mailto:iamanuragsingh10@gmail.com) <br>
+  ⦿ Twitter [Anurag Singh](https://x.com/AnuragS31135607) <br>
+  ⦿ Discord [Anurag](anurags10) <br>
+  
