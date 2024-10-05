@@ -5,7 +5,7 @@
 I am [Anurag](https://www.linkedin.com/in/anuragsingh10/), a blockchain developer from [🇮🇳](https://en.wikipedia.org/wiki/India).
 
 
-I have **2+ years** of experience in blockchain development & full stack software development. An adaptable professional who explores various blockchain platforms, architect smart contract systems, loves coding & reviewing smart contracts and enjoys problem-solving. 
+I have **2+ years** of experience in full stack & blockchain development. An adaptable professional who explores various blockchain platforms, architect smart contract systems, loves coding & reviewing smart contracts and enjoys problem-solving. 
 
 ## Professional Skills and Interests:
 * Designing & Coding Smart Contracts 
