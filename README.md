@@ -28,6 +28,7 @@ I have **2+ years** of experience in full stack & blockchain development. An ada
 * [ETHOnline 2023](https://ethglobal.com/events/ethonline2022)
 * [HackFS 2022](https://ethglobal.com/events/hackfs2022/home)
 * [ETHernals](https://devfolio.co/projects/dcentragram-ba5f)
+* [Hacktoberfest](https://www.holopin.io/hacktoberfest2024/userbadge/cm27lnxz867400cjza7uh1c0v)
 * and many more...
 
 Connect with me on [LinkedIn](https://www.linkedin.com/in/anuragsingh10/) to know more about my work experience & projects.
