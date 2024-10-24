@@ -7,7 +7,7 @@ I am [Anurag](https://www.linkedin.com/in/anuragsingh10/), a full stack & blockc
 
 I have **2+ years** of experience in full stack & blockchain development. An adaptable professional who explores various blockchain platforms, architect smart contract systems, loves coding & reviewing smart contracts and enjoys problem-solving. 
 
-## Professional Skills and Interests:
+## Skills and Interests:
 * Designing & Coding Smart Contracts 
 * DeFi protocols, Tokens and NFT market 
 * R&D, DAOs & Hackathons enthusiast
