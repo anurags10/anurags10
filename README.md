@@ -40,4 +40,6 @@ Connect with me on [LinkedIn](https://www.linkedin.com/in/anuragsingh10/) to kno
   ⦿ Email me [Anurag Singh](mailto:iamanuragsingh10@gmail.com) <br>
   ⦿ Twitter [Anurag Singh](https://x.com/AnuragS31135607) <br>
   ⦿ Discord [anurags10](https://discord.com/channels/@anurags10) <br>
+  ⦿ Portfolio [Anurag Singh](https://anuragsingh.designfolio.me/) <br>
+  
   
