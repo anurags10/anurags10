@@ -2,7 +2,9 @@
 
 A **Full Stack & Blockchain Developer** from [🇮🇳](https://en.wikipedia.org/wiki/India), passionate about building scalable Web2 & Web3 applications.
 
-I have **3+ years** of experience in full stack & blockchain development. An adaptable professional who explores various blockchain platforms, architects smart contract systems, loves coding & reviewing smart contracts, and enjoys problem-solving.  
+I have **3+ years** of experience in **Full Stack (Web2) and Blockchain (Web3)** development.  
+An adaptable professional who builds scalable web applications, explores blockchain platforms, architects smart contract systems, and enjoys problem-solving.
+
 
 ---
 
